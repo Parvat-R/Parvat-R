@@ -18,3 +18,5 @@ You can contact me via [`telegram`](https://telegram.me/parvat_r).
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parvat-web-dev&theme=tokyonight" alt="parvat" /></p>
+
+<p align="left"> <a><img src="https://github-profile-trophy.vercel.app/?username=parvat-web-dev&theme=tokyonight" alt="parvat" /></a> </p>
