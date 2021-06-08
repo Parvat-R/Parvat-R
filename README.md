@@ -6,17 +6,21 @@ You can contact me via [`telegram`](https://telegram.me/parvat_r).
 
 <br>
 
-
-![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=parvat-web-dev&count_private=true&theme=tokyonight&showicons=true)
-
-
-</br>
-
-
-![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=parvat-web-dev&langs_count=5&theme=tokyonight)
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parvat-web-dev&theme=tokyonight" alt="parvat" /></p>
-
-<p align="left"> <a><img src="https://github-profile-trophy.vercel.app/?username=parvat-web-dev&theme=tokyonight" alt="parvat" /></a> </p>
+<table>
+  <tr>
+    <td>
+      <a><img src="https://github-readme-stats.vercel.app/api/?username=parvat-web-dev&count_private=true&theme=tokyonight&showicons=true" /></a>
+    </td>
+    <td>
+      <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvat-web-dev&langs_count=5&theme=tokyonight" alt="parvat" /></a>
+     </td>
+  </tr>
+  <tr>
+    <td>
+        <a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parvat-web-dev&theme=tokyonight" alt="parvat" /></a>
+    </td>
+    <td>
+      <a><img src="https://github-profile-trophy.vercel.app/?username=parvat-web-dev&theme=tokyonight" alt="parvat" /></a>
+    </td>
+  </tr>
+</table>
