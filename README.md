@@ -15,3 +15,6 @@ You can contact me via [`telegram`](https://telegram.me/parvat_r).
 
 ![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=parvat-web-dev&langs_count=5&theme=tokyonight)
 
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parvat-web-dev&theme=tokyonight" alt="parvat" /></p>
