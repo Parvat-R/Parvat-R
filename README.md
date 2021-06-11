@@ -1,5 +1,5 @@
 # Parvat.R
-I am a end-to-end developer who builds both front-end and back-end development. I work at [SPRINGREEN](https://github.com/sprin-g-reen). I learn things faster than normal, and build things on my own from scratch.
+I am a end-to-end developer who builds stuffs with both front-end and back-end development. I work at [SPRINGREEN](https://github.com/sprin-g-reen).
 <br>
 I follow have a lot of intrest in creating new things for free, and doing some thing great in an open-source manner.
 You can contact me via [`telegram`](https://telegram.me/parvat_r).
