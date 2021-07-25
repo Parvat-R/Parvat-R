@@ -11,7 +11,8 @@ I follow have a lot of intrest in creating new things for free, and doing some t
 
 
 ### What I do?
- I am a end-to-end developer who builds stuffs with both front-end and back-end development. I am owner of @sprin-g-reen and @BotsUniverse.
+I am a end-to-end developer who builds stuffs with both front-end and back-end development. I am owner of @sprin-g-reen and @BotsUniverse.
+
  I create fantastic Telegram bots for free.
 
 ### How to contact me?
