@@ -91,14 +91,24 @@ I follow have a lot of intrest in creating new things for free, and doing some t
  - pyttsx3
  - requests
  - bs4
+ - selenium
 ```
 
 
 ### Python Modules I Have Published:
 [`Cryptrooper`](https://pypi.org/project/cryptrooper)
+> ###### LOL, only one!
 
 
-<h6 align="left">LOL, only one!</h6>
-
-
----
+### Stuffs I Have Tried With Javascript:
+```
+ - THREE.js
+ - Anime.js
+ - React
+ - Socket.io
+ - Neural Networks
+ - Brain.js
+ - Maze Solving Algorithm
+ - Expressjs
+ - Electronjs
+```
