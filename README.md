@@ -32,3 +32,69 @@ I follow have a lot of intrest in creating new things for free, and doing some t
 <a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parvat-r&theme=tokyonight" alt="parvat" /></a>
     
 <a><img src="https://github-profile-trophy.vercel.app/?username=parvat-r&theme=tokyonight" alt="parvat" /></a>
+
+
+### Programming Languages I Have Tried To Learn:
+```
+ - Python
+ - JAVASCRIPT
+ - HTML
+ - CSS
+ - SQL
+ - C#
+ - JSON
+ - C++
+ - PHP
+ - XML
+```
+
+### Languages I Use Mostly:
+```
+ - Backend:
+    - Python
+    - Javascript
+   
+ - Frontend:
+    - Javascript
+    - HTML
+    - CSS
+    
+ - Database:
+    - SQL
+    - JSON
+    
+ - Server Apps:
+   - Python
+   - Javascript
+```
+
+
+### Frameworks I Have Used:
+```
+ - Electronjs
+ - Flask
+ - Express
+ - Pyrogram
+ - pyTelebotAPI
+```
+
+
+### Python Modules I Have Used:
+```
+ - sqlite3
+ - JSON
+ - pyrogram
+ - pyTelebotAPI
+ - flask
+ - tkinter
+ - kivy
+ - pyttsx3
+ - requests
+ - bs4
+```
+
+
+### Python Modules I Have Published:
+[`Cryptrooper`](https://pypi.org/project/cryptrooper)
+
+<h6 align="left">LOL, only one!</h6>
