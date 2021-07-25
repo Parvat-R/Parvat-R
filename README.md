@@ -24,7 +24,9 @@ I follow have a lot of intrest in creating new things for free, and doing some t
 <br>
 
 ### My Progress:
-      
+    
+<a href="https://stackoverflow.com/users/14785531/parvat-r"><img src="https://stackoverflow.com/users/flair/14785531.png?theme=dark" width="208" height="58" alt="profile for Parvat . R at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Parvat . R at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>  
+  
 <a><img src="https://github-readme-stats.vercel.app/api/?username=parvat-r&count_private=true&theme=tokyonight&showicons=true" /></a>
     
 <a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvat-r&langs_count=5&theme=tokyonight" alt="parvat" /></a>
