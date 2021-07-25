@@ -25,10 +25,10 @@ I follow have a lot of intrest in creating new things for free, and doing some t
 
 ### My Progress:
       
-<a><img src="https://github-readme-stats.vercel.app/api/?username=parvat-web-dev&count_private=true&theme=tokyonight&showicons=true" /></a>
+<a><img src="https://github-readme-stats.vercel.app/api/?username=parvat-r&count_private=true&theme=tokyonight&showicons=true" /></a>
     
-<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvat-web-dev&langs_count=5&theme=tokyonight" alt="parvat" /></a>
+<a><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parvat-r&langs_count=5&theme=tokyonight" alt="parvat" /></a>
     
-<a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parvat-web-dev&theme=tokyonight" alt="parvat" /></a>
+<a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parvat-r&theme=tokyonight" alt="parvat" /></a>
     
-<a><img src="https://github-profile-trophy.vercel.app/?username=parvat-web-dev&theme=tokyonight" alt="parvat" /></a>
+<a><img src="https://github-profile-trophy.vercel.app/?username=parvat-r&theme=tokyonight" alt="parvat" /></a>
