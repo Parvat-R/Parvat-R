@@ -16,7 +16,7 @@ I follow have a lot of intrest in creating new things for free, and doing some t
 
 ### How to contact me?
 - Telegram [@Parvat_R](https://telegram.me/Parvat_R)
-- Github [@Parvat_R](@Parvat_R)
+- Github [@Parvat-R](https://github.com/Parvat-R)
 - Stack Overflow [parvat-r](https://stackoverflow.com/users/14785531/parvat-r)
 - Discord `Parvat R#5085`
 - Gmail [replyerrors.parvat@gmail.com](mailto:replyerrors.parvat@gmail.com)
