@@ -2,11 +2,11 @@
 <h1 align=center><b>Parvat R</b></h1>
 <hr>
   
-<div>
+<div align=center>
   <h3>Who am I?</h3>
   
 ```ruby
-+-------------------------------------------------------------------------------------------------+  
+  +-------------------------------------------------------------------------------------------------+  
 | About Me:                                                                                       |
 |--> I am the owner of @botsuniverse, developing telegram bots and runing some APIs...            |
 |--> I am... hmmm... a HUMAN 🖖                                                                   |
