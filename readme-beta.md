@@ -11,6 +11,7 @@
 |--> I am the owner of @botsuniverse, developing telegram bots and runing some APIs...            |
 |--> I am... hmmm... a HUMAN 🖖                                                                   |
 |--> I am a programer.                                                                            |
+|--> I was born on 02/01/2005                                                                     |
 |--|                                                                                              |
 | Programing Knowledge:                                                                           |
 |--> print("I use python. 🐍")                                                                    |
