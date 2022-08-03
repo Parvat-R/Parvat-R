@@ -1,58 +1,38 @@
-# Parvat R
-
-```py
-
-class MySelf:
-    name = "Parvat"
-    dob = "02 Jan 2005"
-    email = "vidyutparvat2@gmail.com"
-    telegramid = "parvat_r"
-    
-    class Skills:
-        commonSkils = [
-            "good communication", "problem solving", "critical thinking",
-            "team work", "leadership", "risk taking"
-        ]
-        
-        basicKnowledgeOf = [
-            "psychology", "computing", "football",
-            "computing", ""
-        ]
-        
-        class Programming:
-            wellKnownLangs = [
-                "python", "html",
-                "css", "js"
-            ]
-            
-            knowTheBasicsOf = [
-                "c++", "c#", "c", 
-                "go", "ruby", "koltin"
-            ]
-        
-            class Python:
-                source = "High school"
-                experience = "2 years"
-                modules used = [
-                    "pyrogram", "flask", "os"
-                    "fastapi", "kivy", "requests", 
-                    "subprocess", "threading", "sqlite3",
-                    "json", "bs4", "selunium",
-                    "pygame", "tkinter", "hashlib",
-                    "pydantic", "random", "datetime"
-                ]
-            
-            class HtmlCssJs:
-                source = "self thaught"
-                experience = "5 years"
-                nodeJsUsage = [
-                    "expressjs", "threejs", "electronjs", 
-                    "socketio", "react", "jquery"
-                ]
-           
-                
-            
-        
-    
-
+<h6 align=center><pre><i>And, another </i><kbd> human </kbd><i> here!</i></pre></h6>
+<h1 align=center><b>Parvat R</b></h1>
+<hr>
+  
+<div align=center>
+  <h3>Who am I?</h3>
+  
+```ruby
+  +-------------------------------------------------------------------------------------------------+  
+| About Me:                                                                                       |
+|--> I am the owner of @botsuniverse, developing telegram bots and runing some APIs...            |
+|--> I am... hmmm... a HUMAN 🖖                                                                   |
+|--> I am a programer.                                                                            |
+|--> I was born on 02/01/2005                                                                     |
+|-------------------------------------------------------------------------------------------------|
+| Programing Knowledge:                                                                           |
+|--> print("I use python. 🐍")                                                                    |
+|-->                                                                                              |
+|--> console.log("I like JavaScript 🍾")                                                          |
+|-->                                                                                              |
+|--> <div> I know how to certer a DIV 😅 </div>                                                   |
+|-->                                                                                              |
+|--> .css::after { content: "Make stuffs look cool! 😎" }                                         |
+|-->                                                                                              |
+|--> SELECT sql FROM backend_databases;                                                           |
+|-->                                                                                              |
+|--> { "json": "store small things here! 📑" }                                                    |
+|-->                                                                                              |
+|--> cout << "I know c++ a little 🤔";                                                            |
+|-->                                                                                              |
+|--> Console.WriteLine("I also know c# a little ✍️");                                             |
+|-->                                                                                              |
+|--> echo "I have used php, but I dont like it. 🐘";                                              |
+|-->                                                                                              |
+|--> println("I have tried koltin too!")                                                          |
++-------------------------------------------------------------------------------------------------+
 ```
+</div>
