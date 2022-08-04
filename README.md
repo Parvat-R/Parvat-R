@@ -8,7 +8,7 @@
 ```ruby
   +-------------------------------------------------------------------------------------------------+  
 | About Me:                                                                                       |
-|--> I am the owner of @botsuniverse, developing telegram bots and runing some APIs...            |
+|--> I develop telegram bots and APIs...            |
 |--> I am... hmmm... a HUMAN 🖖                                                                   |
 |--> I am a programer.                                                                            |
 |--> I was born on 02/01/2005                                                                     |
